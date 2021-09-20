@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace CustomAssert
+MatiasPili1216.AssertThrowException
 {
     /// <summary>
     /// Custom Assert - Error Exception
     /// </summary>
-    public class AssertErrorException : UnitTestAssertException
+    public class AssertErrorException : Microsoft.VisualStudio.TestTools.UnitTesting.UnitTestAssertException
     {
         /// <summary>
         /// Initializes a new instance of the AssertErrorException

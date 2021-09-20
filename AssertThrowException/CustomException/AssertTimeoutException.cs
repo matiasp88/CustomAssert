@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace CustomAssert
+MatiasPili1216.AssertThrowException
 {
     /// <summary>
     /// Custom Assert - Timeout Exception
     /// </summary>
-    public class AssertTimeoutException : UnitTestAssertException
+    public class AssertTimeoutException : Microsoft.VisualStudio.TestTools.UnitTesting.UnitTestAssertException
     {
         /// <summary>
         /// Initializes a new instance of the AssertTimeoutException
