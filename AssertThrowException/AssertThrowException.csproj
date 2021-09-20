@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>MatiasPili1216</Authors>
+    <Company>MatiasPili1216</Company>
+    <PackageProjectUrl>https://github.com/matiaspili1216/AssertThrowException</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/matiaspili1216/AssertThrowException</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
